@@ -49,7 +49,7 @@ public class Main {
 
         // Выводим уникальные слова в консоль
         for (String word : uniqueWords) {
-            System.out.print(word + " ");
+            System.out.println(word);
         }
 
         System.out.println();
